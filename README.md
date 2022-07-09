@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/e_adarbeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_adarbeh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-al-adarbeh-447491220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad al adarbeh" height="30" width="40" /></a>
-<a href="https://github.com/Mohmad89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohammad al adarbeh" height="30" width="40" /></a>
+
 </p>
 
 ### 🛠 &nbsp; Language & Tools
