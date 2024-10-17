@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Mohammad Aladarbeh  </h1>
 
 <h3 align="center">A passionate Software development using Java Language from Jordan</h3>
-<img style="padding:2px;" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" align="right" width="400" alt="Coding"/>
+<img style="padding:2px;border-radius:50%;" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" align="right" width="400" alt="Coding"/>
 
 
 - 🌱 Code Fellows Advanced Software Development Intensive Program Graduate.
